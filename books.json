@@ -1,23 +1,30 @@
 [
-  {
-    "title": "To Kill A Mockingbird",
-    "author": "Harper Lee",
-    "available": "Yes",
-    "pages": 336,
-    "isbn": 9780061120084
-  },
-  {
-    "title": "1984",
-    "author": "George Orwell",
-    "available": "Yes",
-    "pages": 267,
-    "isbn": 9780547249643
-  },
-  {
-    "title": "One Hundred Years Of Solitude",
-    "author": "Gabriel Garcia Marquez",
-    "available": "No",
-    "pages": 457,
-    "isbn": 9785267006323
-  }
+    {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "available": "Yes",
+        "pages": 336,
+        "isbn": 9780061120084
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": "280",
+        "isbn": "9780547249643",
+        "available": "Yes"
+    },
+    {
+        "title": "Book1",
+        "author": "Demo1",
+        "pages": "600",
+        "isbn": "112345",
+        "available": "Yes"
+    },
+    {
+        "title": "Book2",
+        "author": "Demo2",
+        "pages": "33611",
+        "isbn": "9780061120089",
+        "available": "Yes"
+    }
 ]

@@ -14,6 +14,7 @@
         <div class="row">
             <div class="col-12">
                 <a href="add.php" class="btn btn-primary">Add</a>
+                <a href="search.php" class="btn btn-primary">Search</a>
                 <table class="table table-bordered table-striped" style="margin-top: 20px;">
                     <thead>
                         <th>Title</th>
